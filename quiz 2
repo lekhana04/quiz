@@ -1,0 +1,28 @@
+<!DOCTYPE = html>
+<html>
+<head>
+lists
+</head>
+<body>
+<p>There are three types of lists</p>
+<p>Ordered, unordered and definition>
+<ol>FOOD
+<li>Chicken</li>
+<li>Mutton</li>
+<li>Fish</li>
+</ol>
+
+<ul>Pets
+<li>Dog</li>
+<li>Cat</li>
+<li>Horse</li>
+
+<dl>
+<dt>college</dt>
+<dd>RV university</dd>
+<dt>library</dt>
+<dd>best place to study</dd>
+<dt>play ground</dt>
+<dd>favorite place for children</dd>
+</dt>
+
